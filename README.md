@@ -72,13 +72,14 @@ QuantizerNTDS-RD includes the following key functions.
 #### Reaction–diffusion PDE with input delay
 
 - `L2norm`:  
-  Computes the $L^2$-norm  
-  $\|f\|_2 = \left( \int_{0}^{1} |f(x)|^2 \, dx \right)^{1/2}$.
+  Computes the L²-norm  
+  $\|f\|_2 = \left( \int_0^1 |f(x)|^2 \, dx \right)^{1/2}$.
 
 - `sup_norm`:  
   Computes the sup-norm  
-  $\|u\|_{\infty} = \sup_{x \in [0,1]} |u(x)|$,  
+  $\|u\|_\infty = \sup_{x \in [0,1]} |u(x)|$,  
   where the supremum is understood in the essential sense.
+
 
 - `u0`:  
   Defines the initial condition  
