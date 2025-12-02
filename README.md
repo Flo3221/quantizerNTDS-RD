@@ -131,7 +131,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{koudohode2025ima,
-  title   = {Predictor-Feedback Stabilization of Globally Lipschitz Nonlinear Systems with State/Input Quantization},
+  title   = {Switched predictor feedbacks for reaction–diffusion PDEs and globally Lipschitz non-linear ODE systems subject to almost state and input quantization},
   author  = {F. Koudohode and N. Bekiaris-Liberis},
   journal = {IMA Journal of Mathematical Control and Information},
   volume  = {42},
