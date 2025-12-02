@@ -76,9 +76,7 @@ QuantizerNTDS-RD includes the following key functions.
   $\|f\|_2 = \left( \int_0^1 |f(x)|^2 \, dx \right)^{1/2}$.
 
 - `sup_norm`:  
-  Computes the sup-norm  
-  $\|u\|_\infty = \sup_{x \in [0,1]} |u(x)|$,  
-  where the supremum is understood in the essential sense.
+  Computes the sup-norm where the supremum is understood in the essential sense.
 
 
 - `u0`:  
