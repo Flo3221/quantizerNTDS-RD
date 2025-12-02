@@ -80,7 +80,7 @@ QuantizerNTDS-RD includes the following key functions.
 - `sup_norm`:  
   Computes the sup-norm  
   \[
-  \|u\|_{\infty} = \operatorname{ess\,sup}_{x \in [0,1]} |u(x)|,
+  \|u\|_{\infty} = ess\sup_{x \in [0,1]} |u(x)|,
   \]
   where $\operatorname{ess\,sup}$ is the essential supremum.
 
