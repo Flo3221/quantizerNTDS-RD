@@ -73,22 +73,16 @@ QuantizerNTDS-RD includes the following key functions.
 
 - `L2norm`:  
   Computes the $L^2$-norm  
-  \[
-  \|f\|_2 = \left( \int_{0}^{1} |f(x)|^2 \, dx \right)^{1/2}.
-  \]
+  $\|f\|_2 = \left( \int_{0}^{1} |f(x)|^2 \, dx \right)^{1/2}$.
 
 - `sup_norm`:  
   Computes the sup-norm  
-  \[
-  \|u\|_{\infty} = ess\sup_{x \in [0,1]} |u(x)|,
-  \]
-  where $\operatorname{ess\,sup}$ is the essential supremum.
+  $\|u\|_{\infty} = \sup_{x \in [0,1]} |u(x)|$,  
+  where the supremum is understood in the essential sense.
 
 - `u0`:  
   Defines the initial condition  
-  \[
-  u_0(x) = \sum_{n=1}^{3} \frac{\sqrt{2}}{n} \sin(n\pi x) + 3(x^2 - x^3),
-  \]
+    $u_0(x) = \sum_{n=1}^{3} \frac{\sqrt{2}}{n} \sin(n\pi x) + 3(x^2 - x^3)$,  
   and the corresponding constant initial condition for the delay line $v_0(x) = 5$.
 
 - `mu_t`:  
