@@ -10,7 +10,7 @@ This project simulates:
 - A globally Lipschitz nonlinear time-delay system subject to **state quantization** with a switched predictor-feedback law.
 - A scalar unstable **reaction–diffusion PDE with input delay** subject to **input quantization**.
 
-For detailed equations, assumptions, and parameter choices, please refer to the associated paper and [technical documentation]([https://github.com/Flo3221/quantizerNTDS-RD/blob/main/readme.pdf](https://tucgr-my.sharepoint.com/:b:/g/personal/fkoudohode_tuc_gr/IQB_uZ_E8hS_QKtHeHL5pfh1AVUp19CksUzti2iQVGO3v8Y?e=ux4Cw6)).
+For detailed equations, assumptions, and parameter choices, please refer to the associated paper and [technical documentation]((https://tucgr-my.sharepoint.com/:b:/g/personal/fkoudohode_tuc_gr/IQB_uZ_E8hS_QKtHeHL5pfh1AVUp19CksUzti2iQVGO3v8Y?e=ux4Cw6)).
 
 ## Requirements
 
